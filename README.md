@@ -28,9 +28,6 @@ THEN I AM PRESENTED WITH RESULTS LISTING VARIOUS FLIGHTS TO MY DESTINATION OF CH
 
 https://jakelauterstein.github.io/trip-advisor-API/
 
-## Screenshot
-![](./assets/Images/screenshot.PNG)
-
 
 ## Contribution
 
