@@ -1,5 +1,3 @@
-# Week 7 Challenge - Code Crushers
-
 # Trip Advisor
 
 ## Purpose
